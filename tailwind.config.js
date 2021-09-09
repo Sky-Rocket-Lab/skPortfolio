@@ -7,7 +7,8 @@ module.exports = {
     },
     extend: {
       fontFamily: {
-        'sans-space': 'Ubuntu, sans-serif'
+        'sans-space': 'Ubuntu, sans-serif',
+        'hanson-bold': 'Hanson-bold'
       } 
     },
   },
